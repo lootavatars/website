@@ -144,6 +144,11 @@ export const marketsList: Record<string, string>[] = [
 // Loot resources
 export const derivativesList: Record<string, string>[] = [
   {
+    name: "Color Loot",
+    description: "Color Loot provides Loot rarity data on chain",
+    url: "https://github.com/colorloot/colorloot",
+  },
+  {
     name: "Loot Descriptions",
     description: "AI-based role-playing descriptions",
     url: "https://opensea.io/collection/lootdescriptions",
